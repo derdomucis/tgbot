@@ -35,6 +35,7 @@ def set_chat_log_channel(chat_id, log_channel):
         SESSION.commit()
 
 
+
 def get_chat_log_channel(chat_id):
     return CHANNELS.get(str(chat_id))
 
