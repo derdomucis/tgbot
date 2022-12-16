@@ -168,3 +168,4 @@ else:
     # run anyway if module not loaded
     def loggable(func):
         return func
+
