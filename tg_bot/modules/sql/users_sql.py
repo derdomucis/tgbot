@@ -184,3 +184,4 @@ def del_user(user_id):
         SESSION.commit()
         SESSION.close()
     return False
+
