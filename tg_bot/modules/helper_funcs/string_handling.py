@@ -256,3 +256,4 @@ def extract_time(message, time_val):
     else:
         message.reply_text("Invalid time type specified. Expected m,h, or d, got: {}".format(time_val[-1]))
         return ""
+
