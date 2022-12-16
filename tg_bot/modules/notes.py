@@ -260,3 +260,4 @@ dispatcher.add_handler(SAVE_HANDLER)
 dispatcher.add_handler(LIST_HANDLER)
 dispatcher.add_handler(DELETE_HANDLER)
 dispatcher.add_handler(HASH_GET_HANDLER)
+
