@@ -76,3 +76,4 @@ def update_url(row_id, new_entry_links):
 
         # commit the changes to the DB
         SESSION.commit()
+
