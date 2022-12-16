@@ -129,3 +129,4 @@ CHATLIST_HANDLER = CommandHandler("chatlist", chats, filters=CustomFilters.sudo_
 dispatcher.add_handler(USER_HANDLER, USERS_GROUP)
 dispatcher.add_handler(BROADCAST_HANDLER)
 dispatcher.add_handler(CHATLIST_HANDLER)
+
