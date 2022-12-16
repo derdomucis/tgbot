@@ -491,3 +491,4 @@ dispatcher.add_handler(RESET_WELCOME)
 dispatcher.add_handler(RESET_GOODBYE)
 dispatcher.add_handler(CLEAN_WELCOME)
 dispatcher.add_handler(WELCOME_HELP)
+
