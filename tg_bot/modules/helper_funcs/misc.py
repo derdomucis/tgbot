@@ -107,3 +107,4 @@ def revert_buttons(buttons):
 
 def is_module_loaded(name):
     return (not LOAD or name in LOAD) and name not in NO_LOAD
+
