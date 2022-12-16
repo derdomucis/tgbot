@@ -98,3 +98,4 @@ def clear_user_bio(user_id):
 
         SESSION.close()
     return False
+
