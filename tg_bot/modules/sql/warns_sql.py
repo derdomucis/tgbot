@@ -284,3 +284,4 @@ def migrate_chat(old_chat_id, new_chat_id):
 
 
 __load_chat_warn_filters()
+
