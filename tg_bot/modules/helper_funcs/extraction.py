@@ -88,3 +88,4 @@ def extract_user_and_text(message: Message, args: List[str]) -> (Optional[int], 
 
 def extract_text(message) -> str:
     return message.text or message.caption or (message.sticker.emoji if message.sticker else None)
+
